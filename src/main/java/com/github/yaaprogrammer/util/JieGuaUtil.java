@@ -1,4 +1,4 @@
-package com.github.yaaprogrammer.utils;
+package com.github.yaaprogrammer.util;
 
 /**
  * @author Yaaprogrammer
