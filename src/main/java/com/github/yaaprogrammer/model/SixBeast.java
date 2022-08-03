@@ -4,6 +4,7 @@ import java.util.Objects;
 
 /**
  * @author Yaaprogrammer
+ * @description 六兽模型类
  */
 public class SixBeast {
     private String name;

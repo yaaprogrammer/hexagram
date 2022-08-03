@@ -4,6 +4,7 @@ import java.util.Objects;
 
 /**
  * @author Yaaprogrammer
+ * @description 五行模型类
  */
 public class FiveElement {
     private String name;

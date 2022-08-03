@@ -4,6 +4,7 @@ import java.util.Objects;
 
 /**
  * @author Yaaprogrammer
+ * @description 八卦模型类
  */
 public class Trigram {
     private String name;

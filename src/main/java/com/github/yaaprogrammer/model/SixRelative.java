@@ -4,6 +4,7 @@ import java.util.Objects;
 
 /**
  * @author Yaaprogrammer
+ * @description 六亲模型类
  */
 public class SixRelative {
 

@@ -4,6 +4,7 @@ import java.util.Objects;
 
 /**
  * @author Yaaprogrammer
+ * @description 地支模型类
  */
 public class EarthlyBranch {
     private String name;
